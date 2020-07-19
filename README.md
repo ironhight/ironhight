@@ -16,6 +16,7 @@ Hi there:wave:, I'm Nguyen Hoai Nam, a web application developer from Viet Nam.
 </br>
 </br>
 </br>
+#### Feel free to contact me. I am always there for you...
 <a href="#"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
