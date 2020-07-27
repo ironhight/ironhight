@@ -21,3 +21,8 @@ Hi there:wave:, I'm Nguyen Hoai Nam, a web application developer from Viet Nam.
 <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
+<p align="center"> 
+  Visitor count
+  <br/>
+  <img src="https://profile-counter.glitch.me/ironhight/count.svg" />
+</p>
