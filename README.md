@@ -19,4 +19,4 @@ Hi there:wave:, I'm Nguyen Hoai Nam, a web application developer from Viet Nam.
 <a href="#"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
 <a href="https://www.linkedin.com/in/hoai-nam-nguyen-b857081aa/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/_ironhight_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/HoaiNamNguyen.ironhight/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
