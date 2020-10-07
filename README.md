@@ -143,6 +143,10 @@ Hi there:wave:, I'm Hoai Nam Nguyen, a web application developer from Vietnam.
 <br/>
 
 ![Ironhight's github stats](https://github-readme-stats.vercel.app/api?username=ironhight&show_icons=true&theme=tokyonight)
+<br/>
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ironhight&layout=compact&langs_count=8)
+
 ### Feel free to contact me. I am always there for you...
 <a href="#"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
 <a href="https://www.linkedin.com/in/hoai-nam-nguyen-b857081aa/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
