@@ -1,6 +1,6 @@
 # 🖥 Back End Developer
 
-Hi there:wave:, I'm Nguyen Hoai Nam, a web application developer from Viet Nam.
+Hi there:wave:, I'm Hoai Nam Nguyen, a web application developer from Vietnam.
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
