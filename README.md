@@ -1,6 +1,6 @@
-# 🖥 Back End Developer
+# 🖥 Fullstack End Developer
 
-Hi there:wave:, I'm Hoai Nam Nguyen, a web application developer from Vietnam.
+Hi there:wave:, I'm Hoai Nam Nguyen, a fullstack web developer from Vietnam.
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
@@ -67,4 +67,3 @@ Hi there:wave:, I'm Hoai Nam Nguyen, a web application developer from Vietnam.
 ### Feel free to contact me. I am always there for you...
 <a href="#"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
 <a href="https://www.instagram.com/_ironhight_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
