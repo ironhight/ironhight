@@ -1,4 +1,4 @@
-# 🖥 Fullstack End Developer
+# 🖥 Fullstack Developer
 
 Hi there:wave:, I'm Hoai Nam Nguyen, a fullstack web developer from Vietnam.
 
