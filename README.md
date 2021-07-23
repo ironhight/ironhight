@@ -1,6 +1,4 @@
-# 🖥 Fullstack Developer
-
-Hi there:wave:, I'm Nam Nguyen Hoai, a fullstack web developer from Vietnam.
+## A Web Application Developer who loves learning and experimenting with new things about web
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
